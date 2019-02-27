@@ -6,7 +6,7 @@ email: 939836402@qq.com
 description: "打怪升级的世界."
 keyword: ""
 url: "http://speedzero.github.io"          # your host, for absolute URL
-baseurl: "http://speedzero.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
 # Sidebar settings
